@@ -1,6 +1,16 @@
 
 # Created by https://www.gitignore.io/api/xcode,osx
 
+### node development ###
+node_modules/
+**/node_modules
+**.txt
+**.png
+log.txt
+.*
+!.gitignore
+uploads/
+**/uploads
 ### OSX ###
 *.DS_Store
 .AppleDouble
